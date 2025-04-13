@@ -50,10 +50,9 @@ python virtual_keyboard.py
 - Sound effects require a `clickSound.mp3` file in the same directory.
 - Adjust detection confidence or distances as per your environment for best performance.
 
-## 📷 Demo
-![GUI]("demo.png")
-
-## Contributing
+## 📷 GUI
+![GUI](demo.png)
+---
 Feel free to fork this repository, submit issues, or contribute pull requests. All contributions are welcome!
 
 # Contact Information
