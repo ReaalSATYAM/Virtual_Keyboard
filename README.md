@@ -51,7 +51,7 @@ python virtual_keyboard.py
 - Adjust detection confidence or distances as per your environment for best performance.
 
 ## 📷 Demo
-![Image]("demo.png")
+![GUI]("demo.png")
 
 ## Contributing
 Feel free to fork this repository, submit issues, or contribute pull requests. All contributions are welcome!
