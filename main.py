@@ -65,8 +65,7 @@ for row_index, row in enumerate(symbols):
         keys.append((x, y, key_width, key_height, key))
 
 # ==== Webcam Setup ====
-cap = cv2.VideoCapture(1)
-cap.set(cv2.CAP_PROP_FPS, 60)
+cap = cv2.VideoCapture(1) 
 cap.set(3, screen_width * 0.85)
 cap.set(4, screen_height * 0.75)
 if not cap.isOpened():
